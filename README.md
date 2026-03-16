@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Maria Caroline! 👋
 
-<!--
-**mariacaroline-dev/mariacaroline-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Desenvolvimento | Aluna ETEC
 
-Here are some ideas to get you started:
+Seja bem-vindo(a) ao meu perfil! Atualmente, estou focada em aprender as bases da programação e construir meus primeiros projetos. Sou apaixonada por tecnologia e busco constantemente evoluir minhas habilidades técnicas e criativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+Estou desenvolvendo meus conhecimentos em:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+### 📩 Vamos nos conectar?
+Fique à vontade para entrar em contato ou acompanhar meus estudos:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
+
+---
+*“A jornada de mil milhas começa com um único passo.”*
