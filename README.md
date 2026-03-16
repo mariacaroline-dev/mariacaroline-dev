@@ -15,5 +15,5 @@ Estou desenvolvendo meus conhecimentos em:
 Fique à vontade para entrar em contato ou acompanhar meus estudos:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_AQUI_O_LINK_DO_SEU_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sousamariacarolinede@gmail.com)
 
